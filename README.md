@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ErnstRoell/ErnstRoell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Repositories! 
+I am a second year PhD student at the Technical University of Munich (TUM) 
+working on machine learning. Our lab leverages topology and abstract 
+mathematics to enhance current machine learning methods.
 
-Here are some ideas to get you started:
-
-# 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests are the application of so-called Euler Characteristic 
+transforms in machine learning. They provide a summary of shapes with
+advantagious properties and we hope to leverage this for find better 
+algorithms to do shape classification and reconstruction. 
